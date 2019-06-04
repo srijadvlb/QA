@@ -1,0 +1,10 @@
+Instruction file:
+Selenium and testng jar files should be downloaded In case the program for question 2) doesnt work
+
+selenium link : https://www.seleniumhq.org/download/ , download version 3.141.59 
+testng jar : http://www.java2s.com/Code/Jar/t/Downloadtestng681jar.htm
+
+The three questions are named as follows 
+1) Problem1_FileExist
+2) Under folder TestAutomation : Problem2_TestCase
+3) Problem3_SmallestKth
