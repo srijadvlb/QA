@@ -5,6 +5,6 @@ selenium link : https://www.seleniumhq.org/download/ , download version 3.141.59
 testng jar : http://www.java2s.com/Code/Jar/t/Downloadtestng681jar.htm
 
 The three questions are named as follows 
-1) Problem1_FileExist
-2) Under folder TestAutomation : TestCase
-3) Problem3_SmallestKth
+1) Problem1_FileExist.java
+2) Under folder TestAutomation : TestCase.java
+3) Problem3_SmallestKth.java
