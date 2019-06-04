@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class Problem1_FileExist {
     public static void main(String args[]) throws Exception
     { 
-         String path="src//Dictonary.txt"; 
+         String path=System.getProperty("user.dir")+"//Dictonary.txt"; 
          if(doesFileExist(path) && isFileEmpty(path))     
          {
            String data = readFileAsString(path);
